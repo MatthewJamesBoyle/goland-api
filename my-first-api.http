@@ -1,0 +1,12 @@
+### GET request to example server
+GET http://localhost:8080/todo
+
+### POST request to add a TODO
+POST localhost:8080/todo
+
+{
+"item": "go for a walk"
+}
+
+### GET request to search for a TODO
+GET localhost:8080/search?q=Shop
