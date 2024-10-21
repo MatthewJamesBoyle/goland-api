@@ -2,8 +2,8 @@ package todo_test
 
 import (
 	"context"
-	"my-first-api/internal/db"
-	"my-first-api/internal/todo"
+	"github.com/MatthewJamesBoyle/goland-api/internal/db"
+	"github.com/MatthewJamesBoyle/goland-api/internal/todo"
 	"reflect"
 	"testing"
 )
